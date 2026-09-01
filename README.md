@@ -16,23 +16,6 @@ I'm particularly interested in turning ambiguous problems into **useful, measura
           🔐 Cybersecurity — resilient AI and security-focused systems
           💼 Enterprise SaaS — AI copilots and workflow automation
           💳 Fintech & Healthcare — exploring AI applications in high-impact domains
-                    AI PRODUCT BUILDER
-                           │
-             ┌─────────────┴─────────────┐
-             │                           │
-       AGENTIC AI                 PRODUCT ENGINEERING
-             │                           │
-     ┌───────┼───────┐             ┌────┼────┐
-     │       │       │             │    │    │
-   Agents   RAG   Evaluation       UX   APIs  Data
-     │
-     ├──────────────┬───────────────┐
-     │              │               │
- Sustainability   Mobility       Cybersecurity
-     │              │               │
-     └──────────────┼───────────────┘
-                    │
-              REAL-WORLD AI
               
 I have collaborated with global technical communities through **IEEE initiatives, research laboratories, and aerospace organizations**, contributing to interdisciplinary engineering research and innovation.
 
