@@ -1,23 +1,62 @@
 ## Hi there 👋
 # I am Abhijay Gopal!
 
-Electrical & Electronics Engineer | Space and Sustainable Researcher | Space technology Enthusiast
+**AI Product Builder | Agentic AI | Engineer & Researcher**
+_**Building intelligent products at the intersection of AI, engineering and real-world problems**._
 
-I am a research-oriented engineer passionate about building innovative technologies in **space systems, cybersecurity, renewable energy, and AI-driven engineering solutions**. My work focuses on developing resilient technological systems that contribute to sustainable infrastructure and next-generation space technologies.
+My work sits at the intersection of **AI, product thinking and engineering,** with projects spanning **sustainable mobility, energy, cybersecurity, autonomous systems and emerging AI applications.**
 
+I'm particularly interested in turning ambiguous problems into **useful, measurable and technically viable products** — from problem discovery and product strategy to prototyping, agent architecture and evaluation.
+
+🚀 **What I'm Building**
+          🤖 Agentic AI — autonomous workflows, multi-agent systems, RAG, tool use & evaluation
+          📦 AI Products — product discovery, PRDs, experimentation, metrics & AI UX
+          🌱 Energy & Sustainability — intelligent systems for sustainable infrastructure
+          🚗 Mobility — AI for transportation and sustainable mobility
+          🔐 Cybersecurity — resilient AI and security-focused systems
+          💼 Enterprise SaaS — AI copilots and workflow automation
+          💳 Fintech & Healthcare — exploring AI applications in high-impact domains
+                    AI PRODUCT BUILDER
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+       AGENTIC AI                 PRODUCT ENGINEERING
+             │                           │
+     ┌───────┼───────┐             ┌────┼────┐
+     │       │       │             │    │    │
+   Agents   RAG   Evaluation       UX   APIs  Data
+     │
+     ├──────────────┬───────────────┐
+     │              │               │
+ Sustainability   Mobility       Cybersecurity
+     │              │               │
+     └──────────────┼───────────────┘
+                    │
+              REAL-WORLD AI
+              
 I have collaborated with global technical communities through **IEEE initiatives, research laboratories, and aerospace organizations**, contributing to interdisciplinary engineering research and innovation.
 
-### Research Interests
+###🧠 **How I Build**
 
-* Space Systems Engineering
-* Cyber Security & Network Resilience
-* Renewable Energy Systems
-* Robotics & Autonomous Systems
-* AI Applications in Engineering
+Problem → Users → Product Hypothesis → PRD → Prototype → AI Architecture → Evaluation → Iteration
 
-### Current Focus
+I care about both sides of the equation:
 
-Developing research projects and technical contributions in **space communication systems, Robotics, AI-cyber-secure infrastructure, and sustainable engineering technologies**.
+Does it solve the right problem?
+Can we build it reliably?
+
+###🔬** Research & Engineering**
+
+My engineering and research background spans autonomous systems, cybersecurity, renewable energy, robotics and space technology.
+
+This foundation shapes how I approach AI products: with an emphasis on systems thinking, reliability, experimentation and real-world constraints.
+
+###🛠️ **Current Stack**
+
+AI / Agentic AI: Python · LLMs · RAG · Agents · Tool Calling · Evaluation
+Product: Product Discovery · PRDs · Metrics · Experimentation · AI UX
+Engineering: APIs · Git · Linux · SQL · Cloud · Automation
+Research: Autonomous Systems · Cybersecurity · Energy · Mobility
 
 ### Connect With Me
 
